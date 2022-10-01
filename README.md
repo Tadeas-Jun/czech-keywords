@@ -3,7 +3,7 @@
 
 To use the script, run it with the --input parameter and any other parameters defined in the User documentation (see below). For example:
 
-&nbsp;&nbsp;&nbsp;&nbsp;`perl klicova slova.pl --input inputText.txt --output keywords.txt --simplePrint --language eng`
+&nbsp;&nbsp;&nbsp;&nbsp;`perl klicova_slova.pl --input inputText.txt --output keywords.txt --simplePrint --language eng`
 
 Please see the User documentation in English (`/documentation/eng/user_documentation.pdf`) or Czech (`/documentation/cze/uzivatelska_dokumentace.pdf`) to learn more about how to use the program.
 
